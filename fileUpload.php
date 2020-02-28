@@ -6,6 +6,8 @@
 </head>
 <body>
 <h2>hello</h2>
+<h2>hello</h2>
+
 	<?php 
 	
 	if(isset($_POST['submit'])){
